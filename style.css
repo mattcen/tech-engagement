@@ -4,3 +4,9 @@
   box-shadow: none;
   background: none;
 }
+.reveal .footer {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  font-size: 1em;
+}

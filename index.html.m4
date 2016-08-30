@@ -1,23 +1,14 @@
 <!doctype html>
-
-
-
-
-
-
-
-
-
-
+include(`replacement.m4')
 <html lang="en">
 
   <head>
     <meta charset="utf-8">
 
-    <title>Slideshow Template</title>
+    <title>talk_title</title>
     <meta name="description"
-    content="A quick sample slide deck" />
-    <meta name="author" content="Matthew Cengia" />
+    content="talk_description" />
+    <meta name="author" content="talk_author" />
 
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -52,25 +43,19 @@
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
         <section>
-        <h1>Slideshow Template</h1>
-        <h3>A quick sample slide deck</h3>
+        <h1>talk_title</h1>
+        <h3>talk_tagline</h3>
         <p>
-        Presentation by Matthew Cengia<br>
-        <a href="http://twitter.com/mattcen">@mattcen</a><br>
-        <a href="https://mattcen.github.io/slideshow-template">https://mattcen.github.io/slideshow-template</a>
+        Presentation by talk_author<br>
+        <a href="http://twitter.com/author_twitter">@author_twitter</a><br>
+        <a href="https://github_user.github.io/github_repo">https://github_user.github.io/github_repo</a>
         </p>
         </section>
 
         <section>
         <h2>Who am I</h2>
         <ul>
-          <li>Computer Scientist</li>
-          <li>Linux Systems Adminstrator/Developer</li>
-          <li>Playing with Linux and open source since 2005</li>
-          <li>Scout Leader</li>
-          <li>Mapping Hobbyist</li>
-          <li><a href="http://au.okfn.org">Open Knowledge Australia ambassador (au.okfn.org)</a></li>
-
+        talk_whoami
         </ul>
         </section>
 
@@ -79,14 +64,14 @@
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
           <img alt="Creative Commons License" style="border-width:0" src="img/88x31.png" /></a>
         <br />
-        <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Slideshow Template</span>
+        <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">talk_title</span>
         by
         <a xmlns:cc="http://creativecommons.org/ns#" href="http://github.com/github_user/github_repo" property="cc:attributionName" rel="cc:attributionURL">Matthew Cengia</a>
         is licensed under a
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
         <br />
-        <a href="https://github.com/mattcen/slideshow-template">
-          https://github.com/mattcen/slideshow-template
+        <a href="https://github.com/github_user/github_repo">
+          https://github.com/github_user/github_repo
         </a>
         <br>
         <br>
@@ -97,8 +82,8 @@
 
       </div>
       <div class='footer'>
-        <a href="https://twitter.com/mattcen">@mattcen</a>
-        #slideshowtemplate
+        <a href="https://twitter.com/author_twitter">@author_twitter</a>
+        talk_hashtag
       </div>
 
     </div>
