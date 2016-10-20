@@ -9,32 +9,36 @@ https://mattcen.github.io/tech-engagement
 ## Who am I
 * Linux Systems Adminstrator/Developer
 * Scout Leader
-* Mapping Hobbyist
-* Open source, privacy, security, and diversity advocate, and [Open Knowledge Australia ambassador (au.okfn.org)](http://au.okfn.org)
-
---
-## Talk purpose
+* Evangelist and activist
+  * Open source and transparency. [Open Knowledge Australia ambassador (au.okfn.org)](http://au.okfn.org)
+  * Online privacy and security
+  * Diversity
 
 Note:
 
+* Make computers do my bidding, with my software or others'
+* Work with youth, teach
+* Passionate about teaching openness etc.
+
+--
+## Talk outline
+
 * Explain the current state of technology engagement
-* Describe issues with this, particularly how we're not exercise technology's full potential
-* Propose suggestions on how to work to fix this
+* Describe issues with this, particularly how we're not exercising technology's full potential
+* Propose suggestions on how to fix this
 
 --
 ## The state of technology engagement
 
-Note:
-So many people using tech these days, particularly youth, are almost exclusively consumers of the technology.
+### Where are we now?
 
-Aside from those of us specifically trained in Information Technology, Computer Science, etc., most people engage in technology to a very limited extent.
+Note:
+
+* Everybody using tech (esp. youth) are consumers
+* Aside from CS/IT, most don't engage tech's full potential
 
 ||
 ### Phones
-
-Note:
-
-Used for:
 
 * Communication
 * Scheduling
@@ -45,10 +49,6 @@ Used for:
 
 ||
 ### Tablets
-
-Note:
-
-Used for:
 
 * Communication
 * Scheduling
@@ -61,10 +61,6 @@ Used for:
 ||
 ### Gaming Consoles
 
-Note:
-
-Used for:
-
 * Gaming
 * Social media
 * Other media and entertainment
@@ -72,36 +68,29 @@ Used for:
 ||
 ### Desktop/Laptop computers
 
-Note:
-
-Most versatile of mainstream tech. Upgradeable, hackable and easy to tinker with, but still often only put to previously mentioned uses:
-
-* Communication
-* Scheduling
-* Recording of information
-* Games
-* Social media
-* Other media and entertainment
-* Office productivity
+* Most versatile mainstream tech
+* Upgradeable
+* Hackable
+* Easy to tinker with
+* But still often only put to previously mentioned uses
 
 --
 ## The potential of tech
 
-Note:
+### Where could we be?
 
 * Real-world control through hardware interfaces
   * Arduinos
   * Raspberry Pis
   * Beaglebone
   * BBC MicroBit
-  * Robots
 * Programming for efficiency
   * Scripting mundane tasks like image editing
 
 --
 ## Strategies for engagement
 
-Note:
+### How can we get there?
 
 * Gamefication
   * Scratch
@@ -111,3 +100,13 @@ Note:
 * Make it easy and fun
 * Schools getting better at covering programming etc.
 
+--
+## Availability and accessibility
+
+* Cheap hardware
+* Free software
+* Cheap software
+* Cheap subscription services
+
+--
+## Go hack something!
