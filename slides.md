@@ -1,3 +1,18 @@
+# Preparing to be makers in a consumer-focussed world
+### Teaching newbies to hack & develop
+
+Presentation by Matthew Cengia
+[@mattcen](http://twitter.com/mattcen)
+https://mattcen.github.io/tech-engagement
+
+--
+## Who am I
+* Linux Systems Adminstrator/Developer
+* Scout Leader
+* Mapping Hobbyist
+* Open source, privacy, security, and diversity advocate, and [Open Knowledge Australia ambassador (au.okfn.org)](http://au.okfn.org)
+
+--
 ## Talk purpose
 
 Note:
@@ -59,11 +74,40 @@ Used for:
 
 Note:
 
-Most versatile of mainstream tech. Upgradeable, hackable and easy to tinker with, but still often only put to previously mentioned uses.
+Most versatile of mainstream tech. Upgradeable, hackable and easy to tinker with, but still often only put to previously mentioned uses:
+
+* Communication
+* Scheduling
+* Recording of information
+* Games
+* Social media
+* Other media and entertainment
+* Office productivity
 
 --
+## The potential of tech
 
-## Current productivity
+Note:
 
-||
+* Real-world control through hardware interfaces
+  * Arduinos
+  * Raspberry Pis
+  * Beaglebone
+  * BBC MicroBit
+  * Robots
+* Programming for efficiency
+  * Scripting mundane tasks like image editing
+
+--
+## Strategies for engagement
+
+Note:
+
+* Gamefication
+  * Scratch
+  * Minecraft Pi with Python
+  * Codecademy
+  * Grok Learning
+* Make it easy and fun
+* Schools getting better at covering programming etc.
 
