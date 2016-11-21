@@ -82,10 +82,19 @@ Note:
 * Real-world control through hardware interfaces
   * Arduinos
   * Raspberry Pis
-  * Beaglebone
+  * Beagleboar/d
   * BBC MicroBit
 * Programming for efficiency
   * Scripting mundane tasks like image editing
+
+Note:
+
+https://www.arduino.cc/
+https://www.freetronics.com.au/
+https://raspberrypi.org/
+https://beagleboard.org
+https://www.microbit.co.uk/
+
 
 --
 ## Strategies for engagement
@@ -99,6 +108,16 @@ Note:
   * Grok Learning
 * Make it easy and fun
 * Schools getting better at covering programming etc.
+
+Note:
+
+https://scratch.mit.edu/
+https://pi.minecraft.net/
+https://www.codecademy.com/
+https://groklearning.com/
+
+Pycon AU Education Seminar
+https://www.youtube.com/watch?v=a2fsgUUgl1k&list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 --
 ## Availability and accessibility
