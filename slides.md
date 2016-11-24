@@ -16,7 +16,6 @@ https://mattcen.github.io/tech-engagement
 
 Note:
 
-* Make computers do my bidding, with my software or others'
 * Work with youth, teach
 * Passionate about teaching openness etc.
 
@@ -82,7 +81,7 @@ Note:
 * Real-world control through hardware interfaces
   * Arduinos
   * Raspberry Pis
-  * Beagleboar/d
+  * Beagleboard
   * BBC MicroBit
 * Programming for efficiency
   * Scripting mundane tasks like image editing
@@ -93,8 +92,25 @@ https://www.arduino.cc/
 https://www.freetronics.com.au/
 https://raspberrypi.org/
 https://beagleboard.org
-https://www.microbit.co.uk/
+https://microbit.org/, https://microbit.org/about/
 
+||
+
+<img src="img/ET-v_3_0-top_1024x1024.jpg" title='Freetronics EtherTen' alt="Freetronics EtherTen" width="50%">
+
+https://www.freetronics.com.au/collections/arduino/products/etherten
+
+||
+
+![BeagleBone Black](img/product_detail_black_lg.jpg "BeagleBone Black")
+
+https://beagleboard.org/black
+
+||
+
+![BBC Micro:bit haredware](img/microbit-hardware.png "BBC Micro:bit haredware")
+
+http://microbit.org/hardware/
 
 --
 ## Strategies for engagement
@@ -117,7 +133,7 @@ https://www.codecademy.com/
 https://groklearning.com/
 
 Pycon AU Education Seminar
-https://www.youtube.com/watch?v=a2fsgUUgl1k&list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
+https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 --
 ## Availability and accessibility
