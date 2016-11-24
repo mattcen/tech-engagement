@@ -112,6 +112,15 @@ https://beagleboard.org/black
 
 http://microbit.org/hardware/
 
+||
+
+    #!/bin/bash
+
+    for image in *.jpg
+    do gm mogrify -resize 50% "$image"
+    done
+
+
 --
 ## Strategies for engagement
 
