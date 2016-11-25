@@ -88,11 +88,11 @@ Note:
 
 Note:
 
-https://www.arduino.cc/
-https://www.freetronics.com.au/
-https://raspberrypi.org/
-https://beagleboard.org
-https://microbit.org/, https://microbit.org/about/
+* https://www.arduino.cc/
+* https://www.freetronics.com.au/
+* https://raspberrypi.org/
+* https://beagleboard.org
+* https://microbit.org/, https://microbit.org/about/
 
 ||
 
@@ -136,13 +136,31 @@ http://microbit.org/hardware/
 
 Note:
 
-https://scratch.mit.edu/
-https://pi.minecraft.net/
-https://www.codecademy.com/
-https://groklearning.com/
+* https://scratch.mit.edu/
+* https://pi.minecraft.net/
+* https://www.codecademy.com/
+* https://groklearning.com/
 
 Pycon AU Education Seminar
 https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
+
+||
+
+## Scratch
+
+![Scratch](img/scratch.png "Scratch")
+
+||
+
+## Codecademy
+
+<img src="img/codecademy.png" title='Codecademy' alt="Codecademy" width="80%">
+
+||
+
+## Grok Learning
+
+<img src="img/groklearning.png" title='Grok Learning' alt="Grok Learning" width="80%">
 
 --
 ## Availability and accessibility
