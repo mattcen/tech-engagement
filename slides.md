@@ -78,41 +78,53 @@ Note:
 
 ### Where could we be?
 
-* Real-world control through hardware interfaces
-  * Arduinos
-  * Raspberry Pis
-  * Beagleboard
-  * BBC MicroBit
-* Programming for efficiency
-  * Scripting mundane tasks like image editing
+||
+
+### Raspberry Pi
+
+![Raspberry Pi](img/raspberry-pi.png "Raspberry Pi")
 
 Note:
 
-* https://www.arduino.cc/
-* https://www.freetronics.com.au/
-* https://raspberrypi.org/
-* https://beagleboard.org
-* https://microbit.org/, https://microbit.org/about/
+https://raspberrypi.org/
 
 ||
+
+### Arduinos
 
 <img src="img/ET-v_3_0-top_1024x1024.jpg" title='Freetronics EtherTen' alt="Freetronics EtherTen" width="50%">
 
+Note:
+
+https://www.arduino.cc/
+
 https://www.freetronics.com.au/collections/arduino/products/etherten
+
+https://www.freetronics.com.au/
 
 ||
 
-![BeagleBone Black](img/product_detail_black_lg.jpg "BeagleBone Black")
+## BeagleBoard
+
+<img src="img/product_detail_black_lg.jpg" title='BeagleBone Black' alt="BeagleBone Black" width="30%">
+
+Note:
 
 https://beagleboard.org/black
 
 ||
 
+## BBC Micro:bit
+
 ![BBC Micro:bit haredware](img/microbit-hardware.png "BBC Micro:bit haredware")
+
+Note:
 
 http://microbit.org/hardware/
 
 ||
+
+## Scripting mundane tasks like image editing
 
     #!/bin/bash
 
@@ -120,29 +132,15 @@ http://microbit.org/hardware/
     do gm mogrify -resize 50% "$image"
     done
 
-
 --
 ## Strategies for engagement
 
 ### How can we get there?
 
-* Gamefication
-  * Scratch
-  * Minecraft Pi with Python
-  * Codecademy
-  * Grok Learning
+--
+
+## Gamefication
 * Make it easy and fun
-* Schools getting better at covering programming etc.
-
-Note:
-
-* https://scratch.mit.edu/
-* https://pi.minecraft.net/
-* https://www.codecademy.com/
-* https://groklearning.com/
-
-Pycon AU Education Seminar
-https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 ||
 
@@ -150,17 +148,57 @@ https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 ![Scratch](img/scratch.png "Scratch")
 
+Note:
+
+* https://scratch.mit.edu/
+
+||
+
+## Minecraft
+
+![Minecraft](img/minecraft.png "Minecraft")
+
+Note:
+
+https://pi.minecraft.net/
+
 ||
 
 ## Codecademy
 
 <img src="img/codecademy.png" title='Codecademy' alt="Codecademy" width="80%">
 
+Note:
+
+https://www.codecademy.com/
+
 ||
 
 ## Grok Learning
 
 <img src="img/groklearning.png" title='Grok Learning' alt="Grok Learning" width="80%">
+
+Note:
+
+https://groklearning.com/
+
+||
+
+## ICT In Schools
+
+Schools getting better at covering programming etc.
+
+Note:
+
+http://www.scientistsinschools.edu.au/ict/
+
+--
+
+## Resources
+
+Pycon AU Education Seminar
+
+https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 --
 ## Availability and accessibility
