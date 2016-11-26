@@ -155,6 +155,15 @@ https://www.adafruit.com/products/2491
 
 ### Make it easy and fun
 
+--
+
+## Availability and accessibility
+
+* Cheap hardware
+* Free software
+* Cheap software
+* Cheap subscription services
+
 ||
 
 ## Scratch
@@ -224,14 +233,6 @@ http://codefuture.org/
 Note:
 
 https://inventtheworld.com.au/
-
---
-## Availability and accessibility
-
-* Cheap hardware
-* Free software
-* Cheap software
-* Cheap subscription services
 
 --
 
