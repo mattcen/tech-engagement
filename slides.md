@@ -124,6 +124,18 @@ http://microbit.org/hardware/
 
 ||
 
+## ESP8266
+
+<img src="img/esp8266.jpg" title='ESP8266' alt="ESP8266" width="60%">
+
+Note:
+
+http://esp8266.net/
+
+https://www.adafruit.com/products/2491
+
+||
+
 ## Scripting mundane tasks like image editing
 
     #!/bin/bash
