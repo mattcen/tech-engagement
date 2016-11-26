@@ -152,7 +152,8 @@ https://www.adafruit.com/products/2491
 --
 
 ## Gamefication
-* Make it easy and fun
+
+### Make it easy and fun
 
 ||
 
@@ -204,13 +205,25 @@ Note:
 
 http://www.scientistsinschools.edu.au/ict/
 
---
+||
 
-## Resources
+## Code The Future
 
-Pycon AU Education Seminar
+![Code The Future](img/code-the-future.png "Code The Future")
 
-https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
+Note:
+
+http://codefuture.org/
+
+||
+
+## Invent The World
+
+![Invent The World](img/invent-the-world.png "Invent The World")
+
+Note:
+
+https://inventtheworld.com.au/
 
 --
 ## Availability and accessibility
@@ -219,6 +232,14 @@ https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 * Free software
 * Cheap software
 * Cheap subscription services
+
+--
+
+## Resources
+
+Pycon AU Education Seminar
+
+https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR
 
 --
 ## Go hack something!
